@@ -1,8 +1,8 @@
 # VibeB2B
 
 A Mastra-based AI assistant for sales insights through emotional analysis and CRM management.
-Devpost: https://devpost.com/software/vibesb2b
-Website: https://vibesb2b.vercel.app/
+- Devpost: https://devpost.com/software/vibesb2b
+- Website: https://vibesb2b.vercel.app/
 
 ## Setup
 
