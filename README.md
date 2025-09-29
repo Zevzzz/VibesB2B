@@ -1,6 +1,6 @@
 # VibeB2B
 
-A Mastra-based AI assistant for sales insights and CRM management.
+A Mastra-based AI assistant for sales insights through emotional analysis and CRM management.
 
 ## Setup
 
