@@ -4,6 +4,12 @@ An AI assistant built with Mastra that analyzes audience emotions in real time, 
 - Devpost: https://devpost.com/software/vibesb2b
 - Website: https://vibesb2b.vercel.app/
 
+(Credits)
+Donson Xie - Backend Systems & AI/CV Stack
+Alession Toniolo - Framework integration & API orchestration
+Amani Bobo - UI/UX design & Electron app
+Vidu Widyalankara - API integration & backend linkage
+
 ## Setup
 
 ### Prerequisites
